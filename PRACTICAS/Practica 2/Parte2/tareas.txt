@@ -1,0 +1,7 @@
+1 --> adri
+
+4,diagrama_actividad --> julio
+
+2,3,5 --> jose
+
+7,8,9 --> pablo
