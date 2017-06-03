@@ -1,0 +1,4 @@
+pablo hace el subgrupo consultas
+julio hace el subgrupo gestion de consulta medica
+jose hace el subgrupo gestion de pacientes
+adri hace el subgrupo servicio web
