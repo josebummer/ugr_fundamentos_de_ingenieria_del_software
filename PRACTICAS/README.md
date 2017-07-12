@@ -1,4 +1,4 @@
-Desde la practica 1 hacia delante realizadas con:
+Desde la practica 1 hasta la 4 realizadas con:
 
 Julio Antonio --> https://github.com/juliofg17 ;
 
